@@ -1,0 +1,68 @@
+
+span{
+    color:red;
+    }
+    .k{
+      
+      text-align: center;
+      display: flex;
+      justify-content: space-between;
+      margin: 6px;
+   }
+   .f{
+    
+    color: rgb(179, 49, 49);
+      margin: 6px;
+   }
+    h2{
+    font-size: 2.2rem;
+    letter-spacing: 0.12rem;
+    cursor: pointer;
+    }
+   *{
+margin: 0;
+padding: 0;
+   }
+   a{
+text-decoration: none;
+color: rgb(216, 39, 39);
+   }
+   header{
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin: 10px;
+   }
+   header .logo{
+font-size: 30px;
+   }
+   header ul{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       list-style: none;
+   }
+   header ul li{
+margin-right:30px ;
+   }
+   header ul li a{
+padding: 6px 15px;
+border-radius: 20px;
+   }
+   header ul li a:hover{
+       background: rgb(73, 190, 58);
+       color:rgb(214, 26, 26)}
+       .v{
+          text-align: center;
+          display: flex;
+          justify-content: space-between;
+          margin: 6px;
+       }
+       .r{
+         text-align: center;
+         display: flex;
+         justify-content: space-between;
+         margin: 7px;
+      }
+       
+
